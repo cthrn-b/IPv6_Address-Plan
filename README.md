@@ -34,3 +34,8 @@ The enterprise consists of the following departments and sub-networks:
 
 ## Network Diagram
 _A network diagram should be included to visualize the allocation of IPv6 subnets._
+
+---
+
+## Author
+This project was created by the repository owner.
